@@ -1,0 +1,34 @@
+#player1 button {
+  display: show;
+}
+
+#player2 button {
+  display: none;
+}
+h1 {
+  text-align: center;
+  color: rgb(100, 100, 157);
+}
+
+div {
+  color: rgb(253, 141, 4);
+}
+
+h3 .card-header {
+  text-emphasis-color: rgb(155, 149, 231);
+}
+
+.card-footer {
+  height: 55px;
+}
+
+span {
+  color: red;
+}
+button.btn.btn-info {
+  display: show;
+  margin-top: 1cm;
+  display: block;
+  width: 5cm;
+  color: rgb(75, 75, 119);
+}
